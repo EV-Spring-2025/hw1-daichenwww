@@ -1,0 +1,12 @@
+# dataset and outputs
+data.zip
+data/
+outputs/
+
+# temp file
+tempCodeRunnerFile.py
+
+# python cache files
+__pycache__/
+*.pyc
+
